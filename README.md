@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate frontend developer and java developer from India</h3>
 <img align="right" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image">
